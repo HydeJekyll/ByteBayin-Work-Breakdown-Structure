@@ -6,7 +6,7 @@ This section outlines our WBS, organized by week, activity type, and task group.
 
 ## 1.0 ! Week 2 – August 13, 2025
 ### 1.1 [Activity Requirement]
-- 1.1.1 Decide on Project Title
+- 1.1.1 Deciding on Project Title
 - 1.1.2 Perform Project Requirement Analysis
 - 1.1.3 Create:
   - Use Case Diagram
