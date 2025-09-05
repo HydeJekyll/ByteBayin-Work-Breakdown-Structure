@@ -53,6 +53,7 @@ This section outlines our WBS, organized by week, activity type, and task group.
 - 4.1.1 Conduct System Check for Lab Exam
 - 4.1.2 Hold Meeting:
   - Three-Point Estimation (PERT)
+  - Constructive Cost Model
 
 ### 4.2 [System Development]
 - 4.2.1 Final Adjustments for Lab Exam
