@@ -63,7 +63,7 @@ This section outlines our WBS, organized by week, activity type, and task group.
 
 ## 5.0 ! Week 6 – September 24, 2025
 ### 5.1 [System Development]
-- 5.1.1 Final Adjustments for System
+- 5.1.1 Final Adjustments for System Testing
 - 5.1.2 Minor Fixes & Polish (User Interface)
 
 *Each task above corresponds to an issue in the repo. This WBS ensures we stay on track with weekly goals.*
